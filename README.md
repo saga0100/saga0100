@@ -8,7 +8,7 @@
 <p dir="auto" align="center"><a target="_blank" href="https://t.me/soapier"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" style="max-width: 100%;"></a></p>
 
 ## 1.0 About me
-My name is Eros and I am also known as Saga, im 15 years old and i major in Software development for different purposes, I know quite a few deveploment languages such as HTML, CSS, Python, Node.JS, React.JS, JavaScript. I've been learning new stuff everyday for about 2 years now, my ultimate goal will be to work as a freelance developper and pentester, and maybe one day have a good company who knows.
+My name is Eros and I am also known as Saga, @saga.fastest on instagram, im 15 years old and i major in Software development for different purposes, I know quite a few deveploment languages such as HTML, CSS, Python, Node.JS, React.JS, JavaScript. I've been learning new stuff everyday for about 2 years now, my ultimate goal will be to work as a freelance developper and pentester, and maybe one day have a good company who knows.
 
 I am always on the lookout for new projects to work on and new people to collaborate with.Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Im always glad for every single information i get and learn about stuff i don't know.
 
