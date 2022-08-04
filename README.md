@@ -1,5 +1,5 @@
 
-## Tables of Contents
+## Small Presentation of who I am and what I have done, or want to do.
 - 1.0  About Me
 - 2.0  EDV
 - 3.0  Statistics
