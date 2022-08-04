@@ -13,15 +13,15 @@ My name is Eros and I am also known as Saga, @saga.fastest on instagram, I major
 I am always on the lookout for new projects to work on and new people to collaborate with.Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Im always glad for every single information i get and learn about stuff i don't know.
 
 ## 2.0 EDV
-I have a lot of experience in the field of Cyber Security and I have worked on many 
-different Projects through out the Years(2015-2022).
+I don't have a lot of experience in the field of Cyber Security but I have worked on many 
+different Projects through out the Years(2020-2022).
 
 ```bash
   - Software Engineering   -> Web Development, iOS Development, Malware Development, MacOS Development
   - Hacking                -> Penetration Testing, Vulnerability Research, Info Gathering
                            -> Reversing, Low Level Hacking ( Kernel, ...)
                            -> Bug Hunting,
-  - Cyber Security         -> Vulnerability Analysisy, Endpoint Protection, Network Security
+  - Cyber Security         -> Vulnerability Analysis, Endpoint Protection, Network Security
 ```
 
 ## 3.0 Statistics
