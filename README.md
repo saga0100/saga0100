@@ -19,7 +19,7 @@ different Projects through out the Years(2020-2023).
 ```bash
   - Software Engineering   -> Web Development, iOS Development, Malware Development, MacOS Development
   - Hacking                -> Penetration Testing, Vulnerability Research, Info Gathering
-                           -> Reversing, Low Level Hacking ( Kernel, ...)
+                           -> Reversing, 
                            -> Bug Hunting,
   - Cyber Security         -> Vulnerability Analysis, Endpoint Protection, Network Security
 ```
