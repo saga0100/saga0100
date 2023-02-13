@@ -5,7 +5,7 @@
 - 3.0  Statistics
 
 <br><br><br><br><br><br>
-<p dir="auto" align="center"><a target="_blank" href="https://t.me/soapier"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" style="max-width: 100%;"></a></p>
+<p dir="auto" align="center"><a target="_blank" href="https://media.newyorker.com/photos/5c547b064d5df80151f8e0b9/16:9/w_1893,h_1065,c_limit/Borowitz-ErisWantedTrumpPresident.jpg"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" style="max-width: 100%;"></a></p>
 
 ## 1.0 About me
 I am  known as Saga, @saga.fastest on instagram, I major in Software development for different purposes, I know quite a few deveploment languages such as HTML, CSS, Python, Node.JS, React.JS, JavaScript and C#, I am also currently learning C languages and ruby a bit more. I've been learning new stuff everyday for about 2 years now, my ultimate goal will be to work as a freelance developper and pentester, and maybe one day have a good company who knows.
