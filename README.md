@@ -5,7 +5,7 @@
 - 3.0  Statistics
 
 <br><br><br><br><br><br>
-<p dir="auto" align="center"><a target="_blank" href=""><img src="" style="max-width: 100%;"></a></p>
+
 
 ## 1.0 About me
 I am  known as Saga, @saga.fastest on instagram, I major in Software development for different purposes, I know quite a few deveploment languages such as HTML, CSS, Python, Node.JS, React.JS, JavaScript and C#, I am also currently learning C languages and ruby a bit more. I've been learning new stuff everyday for about 2 years now, my ultimate goal will be to work as a freelance developper and pentester, and maybe one day have a good company who knows.
